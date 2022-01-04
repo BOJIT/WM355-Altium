@@ -2,3 +2,5 @@
 Version=1.0
 [Project1]
 ProjectPath=First_Altium_PCB\First_Altium_PCB.PrjPcb
+[Project2]
+ProjectPath=Second_Altium_PCB\Second_Altium_PCB.PrjPcb
