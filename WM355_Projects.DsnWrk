@@ -1,6 +1,6 @@
 [ProjectGroup]
 Version=1.0
 [Project1]
-ProjectPath=First_Altium_PCB\First_Altium_PCB.PrjPcb
+ProjectPath=WM355-Altium.LibPkg
 [Project2]
-ProjectPath=Second_Altium_PCB\Second_Altium_PCB.PrjPcb
+ProjectPath=Altium_Learning\Altium_Learning.PrjPcb
