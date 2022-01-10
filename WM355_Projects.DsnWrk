@@ -4,3 +4,5 @@ Version=1.0
 ProjectPath=WM355-Altium.LibPkg
 [Project2]
 ProjectPath=Altium_Learning\Altium_Learning.PrjPcb
+[Project3]
+ProjectPath=Day_2_Seminar\Day_2_Seminar.PrjPcb
