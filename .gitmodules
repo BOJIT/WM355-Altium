@@ -1,0 +1,3 @@
+[submodule "Altium"]
+	path = Altium
+	url = git@github.com:BOJIT/Altium.git
