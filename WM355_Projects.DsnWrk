@@ -3,6 +3,8 @@ Version=1.0
 [Project1]
 ProjectPath=WM355-Altium.LibPkg
 [Project2]
-ProjectPath=Altium_Learning\Altium_Learning.PrjPcb
+ProjectPath=Emitter_Board\Emitter_Board.PrjPcb
 [Project3]
-ProjectPath=Day_2_Seminar\Day_2_Seminar.PrjPcb
+ProjectPath=Detector_Board\Detector_Board.PrjPcb
+[Project4]
+ProjectPath=Microcontroller_Board\Microcontroller_Board.PrjPcb
