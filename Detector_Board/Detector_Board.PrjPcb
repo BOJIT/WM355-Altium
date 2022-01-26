@@ -156,11 +156,11 @@ ParamDesignator16=R2b
 ParamVariation17=ParameterName=Simulation|VariantValue= 
 ParamDesignator17=R2b
 Variation2=Designator=U3|UniqueId=\NPCVOWIZ|Kind=2|AlternatePart=TLE2426CLP|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\james\Git_Local\WM355-Altium\WM355-Altium.SchLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=TLE2426CLP|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=WM355-Altium.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=TO-92|AltLibLink_IsSameFootprint=False
-ParamVariation18=ParameterName=Arrow Part Number|VariantValue=TLE2425CD
+ParamVariation18=ParameterName=Comment|VariantValue=TLE2426CLP
 ParamDesignator18=U3
-ParamVariation19=ParameterName=Arrow Price/Stock|VariantValue=https://www.arrow.com/en/products/tle2425cd/texas-instruments
+ParamVariation19=ParameterName=Arrow Part Number|VariantValue=TLE2425CD
 ParamDesignator19=U3
-ParamVariation20=ParameterName=Comment|VariantValue=TLE2426CLP
+ParamVariation20=ParameterName=Arrow Price/Stock|VariantValue=https://www.arrow.com/en/products/tle2425cd/texas-instruments
 ParamDesignator20=U3
 ParamVariation21=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator21=U3
