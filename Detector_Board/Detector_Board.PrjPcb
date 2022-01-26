@@ -57,7 +57,7 @@ AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -113,6 +113,107 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YJNHBYVD
+
+[ProjectVariant1]
+UniqueID=F8B59667-C08A-41B4-8B39-9D63FEADB21F
+Description=[Alternate Components]
+AllowFabrication=0
+ParameterCount=0
+VariationCount=3
+Variation1=Designator=R2b|UniqueId=\YMDPMWQQ|Kind=2|AlternatePart=3362P-1-103LFTC33X-1-103E|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\james\Git_Local\WM355-Altium\WM355-Altium.SchLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=3362P-1-103LF|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=WM355-Altium.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=3362P_1|AltLibLink_IsSameFootprint=False
+ParamVariation1=ParameterName=Arrow Part Number|VariantValue=TC33X-1-103E
+ParamDesignator1=R2b
+ParamVariation2=ParameterName=Arrow Price/Stock|VariantValue=https://www.arrow.com/en/products/tc33x-1-103e/bourns?region=nac
+ParamDesignator2=R2b
+ParamVariation3=ParameterName=Comment|VariantValue=3362P-1-103LFTC33X-1-103E
+ParamDesignator3=R2b
+ParamVariation4=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator4=R2b
+ParamVariation5=ParameterName=Datasheet Link|VariantValue=https://www.bourns.com/pdfs/TC33.pdf
+ParamDesignator5=R2b
+ParamVariation6=ParameterName=Description|VariantValue=TH Trim Potentiometer
+ParamDesignator6=R2b
+ParamVariation7=ParameterName=Footprint|VariantValue=3362P_1
+ParamDesignator7=R2b
+ParamVariation8=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator8=R2b
+ParamVariation9=ParameterName=Library Reference|VariantValue=3362P-1-103LF
+ParamDesignator9=R2b
+ParamVariation10=ParameterName=Manufacturer_Name|VariantValue=Bourns
+ParamDesignator10=R2b
+ParamVariation11=ParameterName=Manufacturer_Part_Number|VariantValue=TC33X-1-103E
+ParamDesignator11=R2b
+ParamVariation12=ParameterName=Mouser Part Number|VariantValue=652-TC33X-1-103E
+ParamDesignator12=R2b
+ParamVariation13=ParameterName=Mouser Price/Stock|VariantValue=https://www.mouser.co.uk/ProductDetail/Bourns/TC33X-1-103E?qs=4vvWAaIu%2Fq5rtw%252Bjip48Mw%3D%3D
+ParamDesignator13=R2b
+ParamVariation14=ParameterName=PCB3D|VariantValue= 
+ParamDesignator14=R2b
+ParamVariation15=ParameterName=Pin Info|VariantValue= 
+ParamDesignator15=R2b
+ParamVariation16=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator16=R2b
+ParamVariation17=ParameterName=Simulation|VariantValue= 
+ParamDesignator17=R2b
+Variation2=Designator=U3|UniqueId=\NPCVOWIZ|Kind=2|AlternatePart=TLE2426CLP|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\james\Git_Local\WM355-Altium\WM355-Altium.SchLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=TLE2426CLP|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=WM355-Altium.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=TO-92|AltLibLink_IsSameFootprint=False
+ParamVariation18=ParameterName=Arrow Part Number|VariantValue=TLE2425CD
+ParamDesignator18=U3
+ParamVariation19=ParameterName=Arrow Price/Stock|VariantValue=https://www.arrow.com/en/products/tle2425cd/texas-instruments
+ParamDesignator19=U3
+ParamVariation20=ParameterName=Comment|VariantValue=TLE2426CLP
+ParamDesignator20=U3
+ParamVariation21=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator21=U3
+ParamVariation22=ParameterName=Datasheet Link|VariantValue=http://www.ti.com/lit/ds/symlink/tle2425.pdf
+ParamDesignator22=U3
+ParamVariation23=ParameterName=Description|VariantValue=Virtual Ground Reference
+ParamDesignator23=U3
+ParamVariation24=ParameterName=Footprint|VariantValue=TO-92
+ParamDesignator24=U3
+ParamVariation25=ParameterName=Height|VariantValue=1.75mm
+ParamDesignator25=U3
+ParamVariation26=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator26=U3
+ParamVariation27=ParameterName=Library Reference|VariantValue=TLE2426CLP
+ParamDesignator27=U3
+ParamVariation28=ParameterName=Manufacturer_Name|VariantValue=Texas Instruments
+ParamDesignator28=U3
+ParamVariation29=ParameterName=Manufacturer_Part_Number|VariantValue=TLE2425CD
+ParamDesignator29=U3
+ParamVariation30=ParameterName=Mouser Part Number|VariantValue=595-TLE2425CD
+ParamDesignator30=U3
+ParamVariation31=ParameterName=Mouser Price/Stock|VariantValue=https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TLE2425CD?qs=5BZzbFV4k2uGRCYCE5HEfQ%3D%3D
+ParamDesignator31=U3
+ParamVariation32=ParameterName=PCB3D|VariantValue= 
+ParamDesignator32=U3
+ParamVariation33=ParameterName=Pin Info|VariantValue= 
+ParamDesignator33=U3
+ParamVariation34=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator34=U3
+ParamVariation35=ParameterName=Simulation|VariantValue= 
+ParamDesignator35=U3
+Variation3=Designator=X1|UniqueId=\AYPLETJW|Kind=2|AlternatePart=TF-184|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\james\Git_Local\WM355-Altium\WM355-Altium.SchLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=TF-184|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=WM355-Altium.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=TF-184|AltLibLink_IsSameFootprint=False
+ParamVariation36=ParameterName=Comment|VariantValue=TF-184
+ParamDesignator36=X1
+ParamVariation37=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator37=X1
+ParamVariation38=ParameterName=Description|VariantValue=TF-184 Socket from Fischer Elektronik
+ParamDesignator38=X1
+ParamVariation39=ParameterName=Footprint|VariantValue=TF-184
+ParamDesignator39=X1
+ParamVariation40=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator40=X1
+ParamVariation41=ParameterName=Library Reference|VariantValue=TF-184
+ParamDesignator41=X1
+ParamVariation42=ParameterName=PCB3D|VariantValue= 
+ParamDesignator42=X1
+ParamVariation43=ParameterName=Pin Info|VariantValue= 
+ParamDesignator43=X1
+ParamVariation44=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator44=X1
+ParamVariation45=ParameterName=Simulation|VariantValue= 
+ParamDesignator45=X1
+ParamVariationCount=45
 
 [Configuration1]
 Name=Sources
