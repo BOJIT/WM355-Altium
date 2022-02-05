@@ -105,6 +105,91 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LJKMWYEH
 
+[ProjectVariant1]
+UniqueID=348DE853-1FBB-420D-BAB4-AC05CD5A8627
+Description=Alternate Components
+AllowFabrication=0
+ParameterCount=0
+VariationCount=3
+Variation1=Designator=R12b|UniqueId=\XPAEREBZ|Kind=2|AlternatePart=3362P-1-103LFTC33X-1-103E|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=WM355-Altium.SchLib|AltLibLink_SymbolReference=TC33X-1-103E|AltLibLink_DesignItemID=3362P-1-103LF|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=WM355-Altium.SchLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=3362P_1|AltLibLink_IsSameFootprint=False
+ParamVariation1=ParameterName=Arrow Part Number|VariantValue=TC33X-1-103E
+ParamDesignator1=R12b
+ParamVariation2=ParameterName=Arrow Price/Stock|VariantValue=https://www.arrow.com/en/products/tc33x-1-103e/bourns?region=nac
+ParamDesignator2=R12b
+ParamVariation3=ParameterName=Comment|VariantValue=3362P-1-103LFTC33X-1-103E
+ParamDesignator3=R12b
+ParamVariation4=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator4=R12b
+ParamVariation5=ParameterName=Datasheet Link|VariantValue=https://www.bourns.com/pdfs/TC33.pdf
+ParamDesignator5=R12b
+ParamVariation6=ParameterName=Description|VariantValue=TH Trim Potentiometer
+ParamDesignator6=R12b
+ParamVariation7=ParameterName=Footprint|VariantValue=3362P_1
+ParamDesignator7=R12b
+ParamVariation8=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator8=R12b
+ParamVariation9=ParameterName=Library Reference|VariantValue=3362P-1-103LF
+ParamDesignator9=R12b
+ParamVariation10=ParameterName=Manufacturer_Name|VariantValue=Bourns
+ParamDesignator10=R12b
+ParamVariation11=ParameterName=Manufacturer_Part_Number|VariantValue=TC33X-1-103E
+ParamDesignator11=R12b
+ParamVariation12=ParameterName=Mouser Part Number|VariantValue=652-TC33X-1-103E
+ParamDesignator12=R12b
+ParamVariation13=ParameterName=Mouser Price/Stock|VariantValue=https://www.mouser.co.uk/ProductDetail/Bourns/TC33X-1-103E?qs=4vvWAaIu%2Fq5rtw%252Bjip48Mw%3D%3D
+ParamDesignator13=R12b
+ParamVariation14=ParameterName=PCB3D|VariantValue= 
+ParamDesignator14=R12b
+ParamVariation15=ParameterName=Pin Info|VariantValue= 
+ParamDesignator15=R12b
+ParamVariation16=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator16=R12b
+ParamVariation17=ParameterName=Simulation|VariantValue= 
+ParamDesignator17=R12b
+Variation2=Designator=Q1|UniqueId=\AUNCONYL|Kind=2|AlternatePart=Si8472DB-T2-E1|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=WM355-Altium.SchLib|AltLibLink_SymbolReference=CPH3456|AltLibLink_DesignItemID=SI8472DB-T2-E1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=WM355-Altium.SchLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SI8472DB|AltLibLink_IsSameFootprint=False
+ParamVariation18=ParameterName=Comment|VariantValue=Si8472DB-T2-E1
+ParamDesignator18=Q1
+ParamVariation19=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator19=Q1
+ParamVariation20=ParameterName=Description|VariantValue=N channel MOSFET
+ParamDesignator20=Q1
+ParamVariation21=ParameterName=Footprint|VariantValue=SI8472DB
+ParamDesignator21=Q1
+ParamVariation22=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator22=Q1
+ParamVariation23=ParameterName=Library Reference|VariantValue=SI8472DB-T2-E1
+ParamDesignator23=Q1
+ParamVariation24=ParameterName=PCB3D|VariantValue= 
+ParamDesignator24=Q1
+ParamVariation25=ParameterName=Pin Info|VariantValue= 
+ParamDesignator25=Q1
+ParamVariation26=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator26=Q1
+ParamVariation27=ParameterName=Simulation|VariantValue= 
+ParamDesignator27=Q1
+Variation3=Designator=X1|UniqueId=\MYFKYOQC|Kind=2|AlternatePart=TF-184|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=WM355-Altium.SchLib|AltLibLink_SymbolReference=TF-54|AltLibLink_DesignItemID=TF-184|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=WM355-Altium.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=TF-184|AltLibLink_IsSameFootprint=False
+ParamVariation28=ParameterName=Comment|VariantValue=TF-184
+ParamDesignator28=X1
+ParamVariation29=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator29=X1
+ParamVariation30=ParameterName=Description|VariantValue=TF-184 Socket from Fischer Elektronik
+ParamDesignator30=X1
+ParamVariation31=ParameterName=Footprint|VariantValue=TF-184
+ParamDesignator31=X1
+ParamVariation32=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator32=X1
+ParamVariation33=ParameterName=Library Reference|VariantValue=TF-184
+ParamDesignator33=X1
+ParamVariation34=ParameterName=PCB3D|VariantValue= 
+ParamDesignator34=X1
+ParamVariation35=ParameterName=Pin Info|VariantValue= 
+ParamDesignator35=X1
+ParamVariation36=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator36=X1
+ParamVariation37=ParameterName=Simulation|VariantValue= 
+ParamDesignator37=X1
+ParamVariationCount=37
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
