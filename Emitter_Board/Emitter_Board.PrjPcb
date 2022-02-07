@@ -69,7 +69,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=EUKORHMO
 
 [Document3]
 DocumentPath=..\WM355-Altium.SchLib
@@ -111,83 +111,83 @@ Description=Alternate Components
 AllowFabrication=0
 ParameterCount=0
 VariationCount=3
-Variation1=Designator=Q1|UniqueId=\AUNCONYL|Kind=2|AlternatePart=Si8472DB-T2-E1|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=WM355-Altium.SchLib|AltLibLink_SymbolReference=CPH3456|AltLibLink_DesignItemID=SI8472DB-T2-E1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=WM355-Altium.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SI8472DB|AltLibLink_IsSameFootprint=False
-ParamVariation1=ParameterName=Comment|VariantValue=Si8472DB-T2-E1
-ParamDesignator1=Q1
+Variation1=Designator=X1|UniqueId=\MYFKYOQC|Kind=2|AlternatePart=TF-184|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=WM355-Altium.SchLib|AltLibLink_SymbolReference=TF-54|AltLibLink_DesignItemID=TF-184|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=WM355-Altium.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=TF-184|AltLibLink_IsSameFootprint=False
+ParamVariation1=ParameterName=Comment|VariantValue=TF-184
+ParamDesignator1=X1
 ParamVariation2=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator2=Q1
-ParamVariation3=ParameterName=Description|VariantValue=N channel MOSFET
-ParamDesignator3=Q1
-ParamVariation4=ParameterName=Footprint|VariantValue=SI8472DB
-ParamDesignator4=Q1
+ParamDesignator2=X1
+ParamVariation3=ParameterName=Description|VariantValue=TF-184 Socket from Fischer Elektronik
+ParamDesignator3=X1
+ParamVariation4=ParameterName=Footprint|VariantValue=TF-184
+ParamDesignator4=X1
 ParamVariation5=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator5=Q1
-ParamVariation6=ParameterName=Library Reference|VariantValue=SI8472DB-T2-E1
-ParamDesignator6=Q1
+ParamDesignator5=X1
+ParamVariation6=ParameterName=Library Reference|VariantValue=TF-184
+ParamDesignator6=X1
 ParamVariation7=ParameterName=PCB3D|VariantValue= 
-ParamDesignator7=Q1
+ParamDesignator7=X1
 ParamVariation8=ParameterName=Pin Info|VariantValue= 
-ParamDesignator8=Q1
+ParamDesignator8=X1
 ParamVariation9=ParameterName=Signal Integrity|VariantValue= 
-ParamDesignator9=Q1
+ParamDesignator9=X1
 ParamVariation10=ParameterName=Simulation|VariantValue= 
-ParamDesignator10=Q1
-Variation2=Designator=X1|UniqueId=\MYFKYOQC|Kind=2|AlternatePart=TF-184|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=WM355-Altium.SchLib|AltLibLink_SymbolReference=TF-54|AltLibLink_DesignItemID=TF-184|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=WM355-Altium.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=TF-184|AltLibLink_IsSameFootprint=False
-ParamVariation11=ParameterName=Comment|VariantValue=TF-184
-ParamDesignator11=X1
-ParamVariation12=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator12=X1
-ParamVariation13=ParameterName=Description|VariantValue=TF-184 Socket from Fischer Elektronik
-ParamDesignator13=X1
-ParamVariation14=ParameterName=Footprint|VariantValue=TF-184
-ParamDesignator14=X1
-ParamVariation15=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator15=X1
-ParamVariation16=ParameterName=Library Reference|VariantValue=TF-184
-ParamDesignator16=X1
-ParamVariation17=ParameterName=PCB3D|VariantValue= 
-ParamDesignator17=X1
-ParamVariation18=ParameterName=Pin Info|VariantValue= 
-ParamDesignator18=X1
-ParamVariation19=ParameterName=Signal Integrity|VariantValue= 
-ParamDesignator19=X1
-ParamVariation20=ParameterName=Simulation|VariantValue= 
-ParamDesignator20=X1
-Variation3=Designator=R12b|UniqueId=\KPFBJMVE|Kind=2|AlternatePart=3362P-1-103LF|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\james\Git_Local\WM355-Altium\WM355-Altium.SchLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=3362P-1-103LF|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=WM355-Altium.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=3362P_1|AltLibLink_IsSameFootprint=False
-ParamVariation21=ParameterName=Comment|VariantValue=3362P-1-103LF
+ParamDesignator10=X1
+Variation2=Designator=R12b|UniqueId=\KPFBJMVE|Kind=2|AlternatePart=3362P-1-103LF|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\james\Git_Local\WM355-Altium\WM355-Altium.SchLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=3362P-1-103LF|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=WM355-Altium.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=3362P_1|AltLibLink_IsSameFootprint=False
+ParamVariation11=ParameterName=Comment|VariantValue=3362P-1-103LF
+ParamDesignator11=R12b
+ParamVariation12=ParameterName=Arrow Part Number|VariantValue=TC33X-1-103E
+ParamDesignator12=R12b
+ParamVariation13=ParameterName=Arrow Price/Stock|VariantValue=https://www.arrow.com/en/products/tc33x-1-103e/bourns?region=nac
+ParamDesignator13=R12b
+ParamVariation14=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator14=R12b
+ParamVariation15=ParameterName=Datasheet Link|VariantValue=https://www.bourns.com/pdfs/TC33.pdf
+ParamDesignator15=R12b
+ParamVariation16=ParameterName=Description|VariantValue=TH Trim Potentiometer
+ParamDesignator16=R12b
+ParamVariation17=ParameterName=Footprint|VariantValue=3362P_1
+ParamDesignator17=R12b
+ParamVariation18=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator18=R12b
+ParamVariation19=ParameterName=Library Reference|VariantValue=3362P-1-103LF
+ParamDesignator19=R12b
+ParamVariation20=ParameterName=Manufacturer_Name|VariantValue=Bourns
+ParamDesignator20=R12b
+ParamVariation21=ParameterName=Manufacturer_Part_Number|VariantValue=TC33X-1-103E
 ParamDesignator21=R12b
-ParamVariation22=ParameterName=Arrow Part Number|VariantValue=TC33X-1-103E
+ParamVariation22=ParameterName=Mouser Part Number|VariantValue=652-TC33X-1-103E
 ParamDesignator22=R12b
-ParamVariation23=ParameterName=Arrow Price/Stock|VariantValue=https://www.arrow.com/en/products/tc33x-1-103e/bourns?region=nac
+ParamVariation23=ParameterName=Mouser Price/Stock|VariantValue=https://www.mouser.co.uk/ProductDetail/Bourns/TC33X-1-103E?qs=4vvWAaIu%2Fq5rtw%252Bjip48Mw%3D%3D
 ParamDesignator23=R12b
-ParamVariation24=ParameterName=Component Kind|VariantValue=Standard
+ParamVariation24=ParameterName=PCB3D|VariantValue= 
 ParamDesignator24=R12b
-ParamVariation25=ParameterName=Datasheet Link|VariantValue=https://www.bourns.com/pdfs/TC33.pdf
+ParamVariation25=ParameterName=Pin Info|VariantValue= 
 ParamDesignator25=R12b
-ParamVariation26=ParameterName=Description|VariantValue=TH Trim Potentiometer
+ParamVariation26=ParameterName=Signal Integrity|VariantValue= 
 ParamDesignator26=R12b
-ParamVariation27=ParameterName=Footprint|VariantValue=3362P_1
+ParamVariation27=ParameterName=Simulation|VariantValue= 
 ParamDesignator27=R12b
-ParamVariation28=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator28=R12b
-ParamVariation29=ParameterName=Library Reference|VariantValue=3362P-1-103LF
-ParamDesignator29=R12b
-ParamVariation30=ParameterName=Manufacturer_Name|VariantValue=Bourns
-ParamDesignator30=R12b
-ParamVariation31=ParameterName=Manufacturer_Part_Number|VariantValue=TC33X-1-103E
-ParamDesignator31=R12b
-ParamVariation32=ParameterName=Mouser Part Number|VariantValue=652-TC33X-1-103E
-ParamDesignator32=R12b
-ParamVariation33=ParameterName=Mouser Price/Stock|VariantValue=https://www.mouser.co.uk/ProductDetail/Bourns/TC33X-1-103E?qs=4vvWAaIu%2Fq5rtw%252Bjip48Mw%3D%3D
-ParamDesignator33=R12b
+Variation3=Designator=Q1|UniqueId=\AUNCONYL|Kind=2|AlternatePart=Si8472DB-T2-E1|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=WM355-Altium.SchLib|AltLibLink_SymbolReference=CPH3456|AltLibLink_DesignItemID=SI8472DB-T2-E1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=WM355-Altium.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SI8472DB|AltLibLink_IsSameFootprint=False
+ParamVariation28=ParameterName=Comment|VariantValue=Si8472DB-T2-E1
+ParamDesignator28=Q1
+ParamVariation29=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator29=Q1
+ParamVariation30=ParameterName=Description|VariantValue=N channel MOSFET
+ParamDesignator30=Q1
+ParamVariation31=ParameterName=Footprint|VariantValue=SI8472DB
+ParamDesignator31=Q1
+ParamVariation32=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator32=Q1
+ParamVariation33=ParameterName=Library Reference|VariantValue=SI8472DB-T2-E1
+ParamDesignator33=Q1
 ParamVariation34=ParameterName=PCB3D|VariantValue= 
-ParamDesignator34=R12b
+ParamDesignator34=Q1
 ParamVariation35=ParameterName=Pin Info|VariantValue= 
-ParamDesignator35=R12b
+ParamDesignator35=Q1
 ParamVariation36=ParameterName=Signal Integrity|VariantValue= 
-ParamDesignator36=R12b
+ParamDesignator36=Q1
 ParamVariation37=ParameterName=Simulation|VariantValue= 
-ParamDesignator37=R12b
+ParamDesignator37=Q1
 ParamVariationCount=37
 
 [GeneratedDocument1]
@@ -1166,77 +1166,83 @@ ComponentSymbolReference1=Resistor
 ComponentUpdate1=1
 ComponentIsDeviceSheet1=0
 ComponentLibIdentifierKind2=Library Name And Type
-ComponentLibraryIdentifier2=WM355-Altium.SchLib
-ComponentDesignItemID2=16MHZ_XO91050UITA
-ComponentSymbolReference2=16MHZ_XO91050UITA
+ComponentLibraryIdentifier2=BOJIT-Altium.IntLib
+ComponentDesignItemID2=Test Point
+ComponentSymbolReference2=Test Point
 ComponentUpdate2=1
 ComponentIsDeviceSheet2=0
 ComponentLibIdentifierKind3=Library Name And Type
 ComponentLibraryIdentifier3=WM355-Altium.SchLib
-ComponentDesignItemID3=3362P-1-103LF
-ComponentSymbolReference3=3362P-1-103LF
+ComponentDesignItemID3=16MHZ_XO91050UITA
+ComponentSymbolReference3=16MHZ_XO91050UITA
 ComponentUpdate3=1
 ComponentIsDeviceSheet3=0
 ComponentLibIdentifierKind4=Library Name And Type
 ComponentLibraryIdentifier4=WM355-Altium.SchLib
-ComponentDesignItemID4=7-215460-6
-ComponentSymbolReference4=7-215460-6
+ComponentDesignItemID4=3362P-1-103LF
+ComponentSymbolReference4=3362P-1-103LF
 ComponentUpdate4=1
 ComponentIsDeviceSheet4=0
 ComponentLibIdentifierKind5=Library Name And Type
 ComponentLibraryIdentifier5=WM355-Altium.SchLib
-ComponentDesignItemID5=AD8045ARDZ
-ComponentSymbolReference5=AD8045ARDZ
+ComponentDesignItemID5=7-215460-6
+ComponentSymbolReference5=7-215460-6
 ComponentUpdate5=1
 ComponentIsDeviceSheet5=0
 ComponentLibIdentifierKind6=Library Name And Type
 ComponentLibraryIdentifier6=WM355-Altium.SchLib
-ComponentDesignItemID6=AD8529ARZ
-ComponentSymbolReference6=AD8529ARZ
+ComponentDesignItemID6=AD8045ARDZ
+ComponentSymbolReference6=AD8045ARDZ
 ComponentUpdate6=1
 ComponentIsDeviceSheet6=0
 ComponentLibIdentifierKind7=Library Name And Type
 ComponentLibraryIdentifier7=WM355-Altium.SchLib
-ComponentDesignItemID7=AD9837ACPZ-RL7
-ComponentSymbolReference7=AD9837ACPZ-RL7
+ComponentDesignItemID7=AD8529ARZ
+ComponentSymbolReference7=AD8529ARZ
 ComponentUpdate7=1
 ComponentIsDeviceSheet7=0
 ComponentLibIdentifierKind8=Library Name And Type
 ComponentLibraryIdentifier8=WM355-Altium.SchLib
-ComponentDesignItemID8=CPH3456
-ComponentSymbolReference8=CPH3456
+ComponentDesignItemID8=AD9837ACPZ-RL7
+ComponentSymbolReference8=AD9837ACPZ-RL7
 ComponentUpdate8=1
 ComponentIsDeviceSheet8=0
 ComponentLibIdentifierKind9=Library Name And Type
 ComponentLibraryIdentifier9=WM355-Altium.SchLib
-ComponentDesignItemID9=PTH
-ComponentSymbolReference9=PTH
+ComponentDesignItemID9=CPH3456
+ComponentSymbolReference9=CPH3456
 ComponentUpdate9=1
 ComponentIsDeviceSheet9=0
 ComponentLibIdentifierKind10=Library Name And Type
 ComponentLibraryIdentifier10=WM355-Altium.SchLib
-ComponentDesignItemID10=SI8472DB-T2-E1
-ComponentSymbolReference10=SI8472DB-T2-E1
+ComponentDesignItemID10=PTH
+ComponentSymbolReference10=PTH
 ComponentUpdate10=1
 ComponentIsDeviceSheet10=0
 ComponentLibIdentifierKind11=Library Name And Type
 ComponentLibraryIdentifier11=WM355-Altium.SchLib
-ComponentDesignItemID11=TC33X-1-103E
-ComponentSymbolReference11=TC33X-1-103E
+ComponentDesignItemID11=SI8472DB-T2-E1
+ComponentSymbolReference11=SI8472DB-T2-E1
 ComponentUpdate11=1
 ComponentIsDeviceSheet11=0
 ComponentLibIdentifierKind12=Library Name And Type
 ComponentLibraryIdentifier12=WM355-Altium.SchLib
-ComponentDesignItemID12=TF-184
-ComponentSymbolReference12=TF-184
+ComponentDesignItemID12=TC33X-1-103E
+ComponentSymbolReference12=TC33X-1-103E
 ComponentUpdate12=1
 ComponentIsDeviceSheet12=0
 ComponentLibIdentifierKind13=Library Name And Type
 ComponentLibraryIdentifier13=WM355-Altium.SchLib
-ComponentDesignItemID13=TF-54
-ComponentSymbolReference13=TF-54
+ComponentDesignItemID13=TF-184
+ComponentSymbolReference13=TF-184
 ComponentUpdate13=1
 ComponentIsDeviceSheet13=0
+ComponentLibIdentifierKind14=Library Name And Type
+ComponentLibraryIdentifier14=WM355-Altium.SchLib
+ComponentDesignItemID14=TF-54
+ComponentSymbolReference14=TF-54
+ComponentUpdate14=1
+ComponentIsDeviceSheet14=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1437,8 +1443,23 @@ ModelType51=PCBLIB
 ModelName51=TF-54
 ModelUpdate51=1
 ModelType52=PCBLIB
-ModelName52=XO91050UITA24576
+ModelName52=TP-SMD-100mil
 ModelUpdate52=1
+ModelType53=PCBLIB
+ModelName53=TP-SMD-200mil
+ModelUpdate53=1
+ModelType54=PCBLIB
+ModelName54=TP-SMD-50mil
+ModelUpdate54=1
+ModelType55=PCBLIB
+ModelName55=TP-TH-100mil-Keystone
+ModelUpdate55=1
+ModelType56=PCBLIB
+ModelName56=TP-TH-80mil
+ModelUpdate56=1
+ModelType57=PCBLIB
+ModelName57=XO91050UITA24576
+ModelUpdate57=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
