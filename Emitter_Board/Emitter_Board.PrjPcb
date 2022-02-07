@@ -111,12 +111,12 @@ Description=Alternate Components
 AllowFabrication=0
 ParameterCount=0
 VariationCount=3
-Variation1=Designator=R12b|UniqueId=\XPAEREBZ|Kind=2|AlternatePart=3362P-1-103LFTC33X-1-103E|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=WM355-Altium.SchLib|AltLibLink_SymbolReference=TC33X-1-103E|AltLibLink_DesignItemID=3362P-1-103LF|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=WM355-Altium.SchLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=3362P_1|AltLibLink_IsSameFootprint=False
-ParamVariation1=ParameterName=Comment|VariantValue=3362P-1-103LFTC33X-1-103E
+Variation1=Designator=R12b|UniqueId=\PDTACNCL|Kind=2|AlternatePart=3362P-1-103LFTC33X-1-103E|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=WM355-Altium.SchLib|AltLibLink_SymbolReference=TC33X-1-103E|AltLibLink_DesignItemID=3362P-1-103LF|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=WM355-Altium.SchLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=3362P_1|AltLibLink_IsSameFootprint=False
+ParamVariation1=ParameterName=Arrow Part Number|VariantValue=TC33X-1-103E
 ParamDesignator1=R12b
-ParamVariation2=ParameterName=Arrow Part Number|VariantValue=TC33X-1-103E
+ParamVariation2=ParameterName=Arrow Price/Stock|VariantValue=https://www.arrow.com/en/products/tc33x-1-103e/bourns?region=nac
 ParamDesignator2=R12b
-ParamVariation3=ParameterName=Arrow Price/Stock|VariantValue=https://www.arrow.com/en/products/tc33x-1-103e/bourns?region=nac
+ParamVariation3=ParameterName=Comment|VariantValue=3362P-1-103LFTC33X-1-103E
 ParamDesignator3=R12b
 ParamVariation4=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator4=R12b
@@ -146,7 +146,7 @@ ParamVariation16=ParameterName=Signal Integrity|VariantValue=
 ParamDesignator16=R12b
 ParamVariation17=ParameterName=Simulation|VariantValue= 
 ParamDesignator17=R12b
-Variation2=Designator=Q1|UniqueId=\AUNCONYL|Kind=2|AlternatePart=Si8472DB-T2-E1|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=WM355-Altium.SchLib|AltLibLink_SymbolReference=CPH3456|AltLibLink_DesignItemID=SI8472DB-T2-E1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=WM355-Altium.SchLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SI8472DB|AltLibLink_IsSameFootprint=False
+Variation2=Designator=Q1|UniqueId=\AUNCONYL|Kind=2|AlternatePart=Si8472DB-T2-E1|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=WM355-Altium.SchLib|AltLibLink_SymbolReference=CPH3456|AltLibLink_DesignItemID=SI8472DB-T2-E1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=WM355-Altium.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SI8472DB|AltLibLink_IsSameFootprint=False
 ParamVariation18=ParameterName=Comment|VariantValue=Si8472DB-T2-E1
 ParamDesignator18=Q1
 ParamVariation19=ParameterName=Component Kind|VariantValue=Standard
