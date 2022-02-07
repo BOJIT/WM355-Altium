@@ -119,7 +119,7 @@ UniqueID=348DE853-1FBB-420D-BAB4-AC05CD5A8627
 Description=Alternate Components
 AllowFabrication=0
 ParameterCount=0
-VariationCount=2
+VariationCount=3
 Variation1=Designator=Q1|UniqueId=\AUNCONYL|Kind=2|AlternatePart=Si8472DB-T2-E1|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=WM355-Altium.SchLib|AltLibLink_SymbolReference=CPH3456|AltLibLink_DesignItemID=SI8472DB-T2-E1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=WM355-Altium.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SI8472DB|AltLibLink_IsSameFootprint=False
 ParamVariation1=ParameterName=Comment|VariantValue=Si8472DB-T2-E1
 ParamDesignator1=Q1
@@ -162,7 +162,42 @@ ParamVariation19=ParameterName=Signal Integrity|VariantValue=
 ParamDesignator19=X1
 ParamVariation20=ParameterName=Simulation|VariantValue= 
 ParamDesignator20=X1
-ParamVariationCount=20
+Variation3=Designator=R12b|UniqueId=\KPFBJMVE|Kind=2|AlternatePart=3362P-1-103LF|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\james\Git_Local\WM355-Altium\WM355-Altium.SchLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=3362P-1-103LF|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=WM355-Altium.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=3362P_1|AltLibLink_IsSameFootprint=False
+ParamVariation21=ParameterName=Arrow Part Number|VariantValue=TC33X-1-103E
+ParamDesignator21=R12b
+ParamVariation22=ParameterName=Arrow Price/Stock|VariantValue=https://www.arrow.com/en/products/tc33x-1-103e/bourns?region=nac
+ParamDesignator22=R12b
+ParamVariation23=ParameterName=Comment|VariantValue=3362P-1-103LF
+ParamDesignator23=R12b
+ParamVariation24=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator24=R12b
+ParamVariation25=ParameterName=Datasheet Link|VariantValue=https://www.bourns.com/pdfs/TC33.pdf
+ParamDesignator25=R12b
+ParamVariation26=ParameterName=Description|VariantValue=TH Trim Potentiometer
+ParamDesignator26=R12b
+ParamVariation27=ParameterName=Footprint|VariantValue=3362P_1
+ParamDesignator27=R12b
+ParamVariation28=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator28=R12b
+ParamVariation29=ParameterName=Library Reference|VariantValue=3362P-1-103LF
+ParamDesignator29=R12b
+ParamVariation30=ParameterName=Manufacturer_Name|VariantValue=Bourns
+ParamDesignator30=R12b
+ParamVariation31=ParameterName=Manufacturer_Part_Number|VariantValue=TC33X-1-103E
+ParamDesignator31=R12b
+ParamVariation32=ParameterName=Mouser Part Number|VariantValue=652-TC33X-1-103E
+ParamDesignator32=R12b
+ParamVariation33=ParameterName=Mouser Price/Stock|VariantValue=https://www.mouser.co.uk/ProductDetail/Bourns/TC33X-1-103E?qs=4vvWAaIu%2Fq5rtw%252Bjip48Mw%3D%3D
+ParamDesignator33=R12b
+ParamVariation34=ParameterName=PCB3D|VariantValue= 
+ParamDesignator34=R12b
+ParamVariation35=ParameterName=Pin Info|VariantValue= 
+ParamDesignator35=R12b
+ParamVariation36=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator36=R12b
+ParamVariation37=ParameterName=Simulation|VariantValue= 
+ParamDesignator37=R12b
+ParamVariationCount=37
 
 [Configuration1]
 Name=Sources

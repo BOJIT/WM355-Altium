@@ -141,12 +141,12 @@ ParamVariation9=ParameterName=Signal Integrity|VariantValue=
 ParamDesignator9=X1
 ParamVariation10=ParameterName=Simulation|VariantValue= 
 ParamDesignator10=X1
-Variation2=Designator=R2b|UniqueId=\GUGVHPFK|Kind=2|AlternatePart=3362P-1-103LFTC33X-1-103E|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\james\Git_Local\WM355-Altium\WM355-Altium.SchLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=3362P-1-103LF|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=WM355-Altium.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=3362P_1|AltLibLink_IsSameFootprint=False
-ParamVariation11=ParameterName=Comment|VariantValue=3362P-1-103LFTC33X-1-103E
+Variation2=Designator=R2b|UniqueId=\GUGVHPFK|Kind=2|AlternatePart=3362P-1-103LF|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\james\Git_Local\WM355-Altium\WM355-Altium.SchLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=3362P-1-103LF|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=WM355-Altium.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=3362P_1|AltLibLink_IsSameFootprint=False
+ParamVariation11=ParameterName=Arrow Part Number|VariantValue=TC33X-1-103E
 ParamDesignator11=R2b
-ParamVariation12=ParameterName=Arrow Part Number|VariantValue=TC33X-1-103E
+ParamVariation12=ParameterName=Arrow Price/Stock|VariantValue=https://www.arrow.com/en/products/tc33x-1-103e/bourns?region=nac
 ParamDesignator12=R2b
-ParamVariation13=ParameterName=Arrow Price/Stock|VariantValue=https://www.arrow.com/en/products/tc33x-1-103e/bourns?region=nac
+ParamVariation13=ParameterName=Comment|VariantValue=3362P-1-103LF
 ParamDesignator13=R2b
 ParamVariation14=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator14=R2b
