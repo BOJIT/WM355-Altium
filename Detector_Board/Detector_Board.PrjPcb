@@ -142,11 +142,11 @@ ParamDesignator9=X1
 ParamVariation10=ParameterName=Simulation|VariantValue= 
 ParamDesignator10=X1
 Variation2=Designator=R2b|UniqueId=\GUGVHPFK|Kind=2|AlternatePart=3362P-1-103LF|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\james\Git_Local\WM355-Altium\WM355-Altium.SchLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=3362P-1-103LF|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=WM355-Altium.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=3362P_1|AltLibLink_IsSameFootprint=False
-ParamVariation11=ParameterName=Arrow Part Number|VariantValue=TC33X-1-103E
+ParamVariation11=ParameterName=Comment|VariantValue=3362P-1-103LF
 ParamDesignator11=R2b
-ParamVariation12=ParameterName=Arrow Price/Stock|VariantValue=https://www.arrow.com/en/products/tc33x-1-103e/bourns?region=nac
+ParamVariation12=ParameterName=Arrow Part Number|VariantValue=TC33X-1-103E
 ParamDesignator12=R2b
-ParamVariation13=ParameterName=Comment|VariantValue=3362P-1-103LF
+ParamVariation13=ParameterName=Arrow Price/Stock|VariantValue=https://www.arrow.com/en/products/tc33x-1-103e/bourns?region=nac
 ParamDesignator13=R2b
 ParamVariation14=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator14=R2b
@@ -216,54 +216,58 @@ ParamDesignator45=U3
 ParamVariationCount=45
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for Detector_Board\Detector.DRR
+DocumentPath=Project Outputs for Detector_Board\Design Rule Check - Detector.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for Detector_Board\Detector.EXTREP
+DocumentPath=Project Outputs for Detector_Board\Detector.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for Detector_Board\Detector.GBL
+DocumentPath=Project Outputs for Detector_Board\Detector.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for Detector_Board\Detector.GBO
+DocumentPath=Project Outputs for Detector_Board\Detector.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for Detector_Board\Detector.GBS
+DocumentPath=Project Outputs for Detector_Board\Detector.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for Detector_Board\Detector.GKO
+DocumentPath=Project Outputs for Detector_Board\Detector.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for Detector_Board\Detector.GTL
+DocumentPath=Project Outputs for Detector_Board\Detector.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for Detector_Board\Detector.GTO
+DocumentPath=Project Outputs for Detector_Board\Detector.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for Detector_Board\Detector.GTS
+DocumentPath=Project Outputs for Detector_Board\Detector.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for Detector_Board\Detector.LDP
+DocumentPath=Project Outputs for Detector_Board\Detector.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for Detector_Board\Detector.REP
+DocumentPath=Project Outputs for Detector_Board\Detector.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for Detector_Board\Detector.RUL
+DocumentPath=Project Outputs for Detector_Board\Detector.REP
 DItemRevisionGUID=
 
 [GeneratedDocument13]
+DocumentPath=Project Outputs for Detector_Board\Detector.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument14]
 DocumentPath=Project Outputs for Detector_Board\Detector.TXT
 DItemRevisionGUID=
 
