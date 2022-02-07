@@ -1,6 +1,6 @@
-Record=DiagramHierarchy|SourceDocument=System.MbsDoc|Kind=Multi-board Schematic Module|Designator=PCB3|Source=Detector_Board\Detector_Board.PrjPcb
+Record=DiagramHierarchy|SourceDocument=System.MbsDoc|Kind=Multi-board Schematic Module|Designator=PCB2|Source=Detector_Board\Detector_Board.PrjPcb
 Record=SubProject|SourceDocument=System.MbsDoc|ProjectPath=Detector_Board\Detector_Board.PrjPcb
-Record=DiagramHierarchy|SourceDocument=System.MbsDoc|Kind=Multi-board Schematic Module|Designator=PCB2|Source=Emitter_Board\Emitter_Board.PrjPcb
+Record=DiagramHierarchy|SourceDocument=System.MbsDoc|Kind=Multi-board Schematic Module|Designator=PCB1|Source=Emitter_Board\Emitter_Board.PrjPcb
 Record=SubProject|SourceDocument=System.MbsDoc|ProjectPath=Emitter_Board\Emitter_Board.PrjPcb
-Record=DiagramHierarchy|SourceDocument=System.MbsDoc|Kind=Multi-board Schematic Module|Designator=PCB1|Source=Microcontroller_Board\Microcontroller_Board.PrjPcb
+Record=DiagramHierarchy|SourceDocument=System.MbsDoc|Kind=Multi-board Schematic Module|Designator=PCB3|Source=Microcontroller_Board\Microcontroller_Board.PrjPcb
 Record=SubProject|SourceDocument=System.MbsDoc|ProjectPath=Microcontroller_Board\Microcontroller_Board.PrjPcb
