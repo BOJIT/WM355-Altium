@@ -3,10 +3,10 @@ Version=1.0
 [Project1]
 ProjectPath=WM355-Altium.PrjMbd
 [Project2]
-ProjectPath=Detector_Board\Detector_Board.PrjPcb
-[Project3]
 ProjectPath=Microcontroller_Board\Microcontroller_Board.PrjPcb
-[Project4]
+[Project3]
 ProjectPath=WM355-Altium.LibPkg
+[Project4]
+ProjectPath=Detector_Board\Detector_Board.PrjPcb
 [Project5]
 ProjectPath=Emitter_Board\Emitter_Board.PrjPcb
