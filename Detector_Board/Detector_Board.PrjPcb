@@ -216,54 +216,58 @@ ParamDesignator45=U3
 ParamVariationCount=45
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for Detector_Board\Detector.DRR
+DocumentPath=Project Outputs for Detector_Board\Design Rule Check - Detector.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for Detector_Board\Detector.EXTREP
+DocumentPath=Project Outputs for Detector_Board\Detector.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for Detector_Board\Detector.GBL
+DocumentPath=Project Outputs for Detector_Board\Detector.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for Detector_Board\Detector.GBO
+DocumentPath=Project Outputs for Detector_Board\Detector.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for Detector_Board\Detector.GBS
+DocumentPath=Project Outputs for Detector_Board\Detector.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for Detector_Board\Detector.GKO
+DocumentPath=Project Outputs for Detector_Board\Detector.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for Detector_Board\Detector.GTL
+DocumentPath=Project Outputs for Detector_Board\Detector.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for Detector_Board\Detector.GTO
+DocumentPath=Project Outputs for Detector_Board\Detector.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for Detector_Board\Detector.GTS
+DocumentPath=Project Outputs for Detector_Board\Detector.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for Detector_Board\Detector.LDP
+DocumentPath=Project Outputs for Detector_Board\Detector.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for Detector_Board\Detector.REP
+DocumentPath=Project Outputs for Detector_Board\Detector.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for Detector_Board\Detector.RUL
+DocumentPath=Project Outputs for Detector_Board\Detector.REP
 DItemRevisionGUID=
 
 [GeneratedDocument13]
+DocumentPath=Project Outputs for Detector_Board\Detector.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument14]
 DocumentPath=Project Outputs for Detector_Board\Detector.TXT
 DItemRevisionGUID=
 
